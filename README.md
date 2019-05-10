@@ -1,2 +1,2 @@
-# Big_Data_Applications
+# Big Data Applications
 Fall 2018 Projects
